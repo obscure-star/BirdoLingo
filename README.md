@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the **Duolingo** app:
 
 <img src='https://github.com/obscure-star/BirdoLingo/blob/master/DuoLingosample.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
