@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 - [X] Create a custom-shape Button using Shape Drawables
 - [X] Customize the text fonts by creating new Font Resources
 - [X] Add Tooltips to your Views to help users understand how to navigate the UI
-- [ ] Create a second layout, this time for an original, personal app idea
+- [X] Create a second layout, this time for an original, personal app idea
 
 ## Chosen Screenshot
 
@@ -55,7 +55,7 @@ It is for an app that **allows users to track their progress towards their goals
 
 ## License
 
-Copyright **2023** **your name**
+Copyright **2023** **Ifeanyi Ibeanusi**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
