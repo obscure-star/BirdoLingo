@@ -45,6 +45,14 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **Kap**
 
+## Original App Layout (Optional Stretch Feature)
+
+Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
+
+It is for an app that **allows users to track their progress towards their goals (aspirations)**.
+
+<img src='https://github.com/obscure-star/BirdoLingo/blob/master/Goals_app.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+
 ## License
 
 Copyright **2023** **your name**
